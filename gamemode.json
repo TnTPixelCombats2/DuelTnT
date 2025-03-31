@@ -1,0 +1,64 @@
+
+{
+  "Name": "<b><color=Orange>Ｄᴜｅᴜ</a> <i><color=Red>ᴮʸ: ƬＮƬ ㄒｅ尺s</a></i></b>",
+  "Description": "<b><color=Orange>DUEL:</a></b> <i>Сражайтесь 1 на 1 или с друзьями в режиме дуэли. Выбирайте оружие, которым будете отбиваться от команды врага, победит сильнейшая команда!</i>",
+  "StartClientVersion": 573,
+  "MapFilter": {
+    "IsBlank": false,
+    "HasParcourEnd": false
+  },
+  "MapLists": [
+    {
+      "MapListId": 324,
+      "Name": "Официальные карты"
+    },
+    {
+      "MapListId": 581
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "MapRotation",
+        "DisplayName": "Voting map",
+        "Default": true,
+        "Order": 1
+      },
+      {
+        "Name": "OnlyPlayerBlocksDmg",
+        "DisplayName": "Partial destruction",
+        "Order": 2
+      },
+      {
+        "Name": "LoosenBlocks",
+        "DisplayName": "Loosen blocks",
+        "Order": 3
+      },
+      {
+        "Name": "FriendlyFire",
+        "DisplayName": "Friendly fire",
+        "Order": 4
+       },
+       {
+         "Name": "MainEnableTrue",
+         "DisplayName": "Inventory Main",
+       },
+       {
+         "Name": "MeleeEnableTrue",
+         "DisplayName": "Inventory Melee",
+       },
+       {
+         "Name": "SecondaryEnableTrue",
+         "DisplayName": "Inventory Secondary",
+       },
+       {
+         "Name": "ExplosiveEnableTrue",
+         "DisplayName": "Inventory Explosive",
+       },
+       {
+         "Name": "BuildEnableTrue",
+         "DisplayName": "Inventory Build",
+        }
+      }
+    ]
+}
