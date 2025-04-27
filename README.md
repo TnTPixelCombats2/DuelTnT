@@ -1,8 +1,8 @@
      
 # Duel - GameModePC2:
 - Duel GameMode -  Pixel Combats 2;
-- Api 2.0;
-- Official;
+- The modes are included in Api 2.0;
+- Official gamemode;
 - Authors: Ters; TnT.
 
 # Description Duel:
@@ -14,7 +14,7 @@
 # Ob Authors:
 - The authors of this mode, from the company: TrtitoRest releases new modes, join and play!
 # TnT; Ters; Boss.
-
+Famous authors of these modes.
 
 
 
