@@ -1,7 +1,7 @@
      
 # Duel - GameModePC2:
 - Duel GameMode -  Pixel Combats 2;
-- The modes are included in Api 2.0;
+- The gamemode are included in Api 2.0;
 - Official gamemode;
 - Authors: Ters; TnT.
 
